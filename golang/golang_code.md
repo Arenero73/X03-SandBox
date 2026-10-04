@@ -2,4 +2,4 @@
 
 
 
-This directory will contain all ***Go*** source code for this repository
+This directory will contain all ***Go*** source code for this repository.
